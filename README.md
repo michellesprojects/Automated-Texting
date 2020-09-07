@@ -1,2 +1,2 @@
 # Automated-Texting
-program that sends the entire star wars script automatically 
+program that automatically sends the entire star wars script as line by line messages 
