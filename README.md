@@ -1,2 +1,2 @@
 # Automated-Texting
-program that automatically sends the entire star wars script as line by line messages to a text chat 
+Bot that sends a text file as line by line messages in a text chat.
